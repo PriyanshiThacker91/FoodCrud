@@ -1,0 +1,290 @@
+[{
+  "_id": {
+    "$oid": "6700fa5ec6d4b1cf57a40d28"
+  },
+  "id": "5",
+  "name": "Cheeseburger",
+  "category": "American",
+  "price": "9.99",
+  "description": "Grilled beef patty with cheese, lettuce, and tomato."
+},
+{
+  "_id": {
+    "$oid": "6700fa5ec6d4b1cf57a40d29"
+  },
+  "id": "6",
+  "name": "Pad Thai",
+  "category": "Thai",
+  "price": "11.50",
+  "description": "Stir-fried rice noodles with shrimp, tofu, and peanuts."
+},
+{
+  "_id": {
+    "$oid": "6700fa5ec6d4b1cf57a40d2b"
+  },
+  "id": "8",
+  "name": "Tacos",
+  "category": "Mexican",
+  "price": "7.49",
+  "description": "Soft corn tortillas filled with seasoned meat and toppings."
+},
+{
+  "_id": {
+    "$oid": "6700fa5ec6d4b1cf57a40d25"
+  },
+  "id": "2",
+  "name": "Caesar Salad",
+  "category": "Salad",
+  "price": "8.49",
+  "description": "Romaine lettuce, croutons, and Caesar dressing."
+},
+{
+  "_id": {
+    "$oid": "6700fa5ec6d4b1cf57a40d24"
+  },
+  "id": "1",
+  "name": "Margherita Pizza",
+  "category": "Italian",
+  "price": "10.99",
+  "description": "Classic cheese pizza with tomato sauce and mozzarella."
+},
+{
+  "_id": {
+    "$oid": "6700fa5ec6d4b1cf57a40d26"
+  },
+  "id": "3",
+  "name": "Chicken Biryani",
+  "category": "Indian",
+  "price": "12.50",
+  "description": "Spiced chicken and basmati rice cooked with herbs."
+},
+{
+  "_id": {
+    "$oid": "6700fa5ec6d4b1cf57a40d27"
+  },
+  "id": "4",
+  "name": "Sushi Platter",
+  "category": "Japanese",
+  "price": "18.75",
+  "description": "Assorted sushi rolls with fresh fish and vegetables."
+},
+{
+  "_id": {
+    "$oid": "6700fa5ec6d4b1cf57a40d2d"
+  },
+  "id": "10",
+  "name": "Vegetable Stir Fry",
+  "category": "Asian",
+  "price": "9.25",
+  "description": "Mixed vegetables sautéed with soy sauce and garlic."
+},
+{
+  "_id": {
+    "$oid": "6700fa5ec6d4b1cf57a40d2a"
+  },
+  "id": "7",
+  "name": "Gelato",
+  "category": "Dessert",
+  "price": "5.99",
+  "description": "Italian-style ice cream in various flavors."
+},
+{
+  "_id": {
+    "$oid": "6700fc2bc6d4b1cf57a40d3a"
+  },
+  "id": "20",
+  "name": "Pindi Chana",
+  "category": "Punjabi",
+  "price": "8.00",
+  "description": "A dry chickpea curry cooked with a blend of traditional Punjabi spices."
+},
+{
+  "_id": {
+    "$oid": "6700fc2bc6d4b1cf57a40d31"
+  },
+  "id": "11",
+  "name": "Sarson da Saag",
+  "category": "Punjabi",
+  "price": "12.00",
+  "description": "Mustard greens cooked with spices, typically served with makki di roti."
+},
+{
+  "_id": {
+    "$oid": "6700fc2bc6d4b1cf57a40d38"
+  },
+  "id": "18",
+  "name": "Aloo Paratha",
+  "category": "Punjabi",
+  "price": "7.00",
+  "description": "Whole wheat flatbread stuffed with spiced mashed potatoes, served with butter or yogurt."
+},
+{
+  "_id": {
+    "$oid": "6700fc2bc6d4b1cf57a40d39"
+  },
+  "id": "19",
+  "name": "Lassi",
+  "category": "Punjabi",
+  "price": "3.50",
+  "description": "A refreshing yogurt-based drink, available in sweet or salty flavors."
+},
+{
+  "_id": {
+    "$oid": "6700fc2bc6d4b1cf57a40d34"
+  },
+  "id": "14",
+  "name": "Chole Bhature",
+  "category": "Punjabi",
+  "price": "9.50",
+  "description": "Spicy chickpea curry served with fried, fluffy bhature."
+},
+{
+  "_id": {
+    "$oid": "6700fc2bc6d4b1cf57a40d37"
+  },
+  "id": "17",
+  "name": "Tandoori Chicken",
+  "category": "Punjabi",
+  "price": "12.50",
+  "description": "Chicken marinated in yogurt and spices, roasted in a tandoor."
+},
+{
+  "_id": {
+    "$oid": "6700fc2bc6d4b1cf57a40d35"
+  },
+  "id": "15",
+  "name": "Amritsari Fish",
+  "category": "Punjabi",
+  "price": "13.00",
+  "description": "Crispy fried fish marinated in gram flour batter, with a blend of Punjabi spices."
+},
+{
+  "_id": {
+    "$oid": "6700fc2bc6d4b1cf57a40d33"
+  },
+  "id": "13",
+  "name": "Paneer Tikka",
+  "category": "Punjabi",
+  "price": "11.50",
+  "description": "Marinated paneer cubes grilled and served with mint chutney."
+},
+{
+  "_id": {
+    "$oid": "6700fc2bc6d4b1cf57a40d32"
+  },
+  "id": "12",
+  "name": "Butter Chicken",
+  "category": "Punjabi",
+  "price": "14.00",
+  "description": "Tender chicken pieces in a creamy tomato-based gravy."
+},
+{
+  "_id": {
+    "$oid": "6700fc2bc6d4b1cf57a40d36"
+  },
+  "id": "16",
+  "name": "Rajma Chawal",
+  "category": "Punjabi",
+  "price": "8.50",
+  "description": "Red kidney beans cooked in a spiced gravy, served with steamed rice."
+},
+{
+  "_id": {
+    "$oid": "6700fc7fc6d4b1cf57a40d3f"
+  },
+  "id": "24",
+  "name": "Khandvi",
+  "category": "Gujarati",
+  "price": "5.00",
+  "description": "Gram flour rolls seasoned with mustard seeds, sesame, and coconut."
+},
+{
+  "_id": {
+    "$oid": "6700fc7fc6d4b1cf57a40d3d"
+  },
+  "id": "22",
+  "name": "Dhokla",
+  "category": "Gujarati",
+  "price": "6.00",
+  "description": "Steamed fermented batter made from rice and chickpeas, served with chutney."
+},
+{
+  "_id": {
+    "$oid": "6700fc7fc6d4b1cf57a40d43"
+  },
+  "id": "28",
+  "name": "Gujarati Kadhi",
+  "category": "Gujarati",
+  "price": "6.50",
+  "description": "A yogurt-based curry spiced with ginger, green chilies, and tempered with mustard seeds."
+},
+{
+  "_id": {
+    "$oid": "6700fc7fc6d4b1cf57a40d3c"
+  },
+  "id": "21",
+  "name": "Undhiyu",
+  "category": "Gujarati",
+  "price": "10.50",
+  "description": "A mixed vegetable dish with spices, cooked slowly in earthen pots."
+},
+{
+  "_id": {
+    "$oid": "6700fc7fc6d4b1cf57a40d41"
+  },
+  "id": "26",
+  "name": "Handvo",
+  "category": "Gujarati",
+  "price": "8.00",
+  "description": "Savory vegetable cake made with rice and lentils, baked to perfection."
+},
+{
+  "_id": {
+    "$oid": "6700fc7fc6d4b1cf57a40d45"
+  },
+  "id": "30",
+  "name": "Shrikhand",
+  "category": "Gujarati",
+  "price": "5.50",
+  "description": "Sweetened yogurt flavored with saffron, cardamom, and garnished with nuts."
+},
+{
+  "_id": {
+    "$oid": "6700fc7fc6d4b1cf57a40d44"
+  },
+  "id": "29",
+  "name": "Patra",
+  "category": "Gujarati",
+  "price": "6.25",
+  "description": "Steamed colocasia leaves rolled with spiced gram flour and garnished with sesame seeds."
+},
+{
+  "_id": {
+    "$oid": "6700fc7fc6d4b1cf57a40d3e"
+  },
+  "id": "23",
+  "name": "Thepla",
+  "category": "Gujarati",
+  "price": "5.50",
+  "description": "Spiced flatbread made from whole wheat flour and fenugreek leaves."
+},
+{
+  "_id": {
+    "$oid": "6700fc7fc6d4b1cf57a40d40"
+  },
+  "id": "25",
+  "name": "Fafda Jalebi",
+  "category": "Gujarati",
+  "price": "7.50",
+  "description": "Crispy fried fafda paired with sweet jalebi, a popular Gujarati breakfast."
+},
+{
+  "_id": {
+    "$oid": "6700fc7fc6d4b1cf57a40d42"
+  },
+  "id": "27",
+  "name": "Sev Tameta",
+  "category": "Gujarati",
+  "price": "9.00",
+  "description": "A tangy tomato curry topped with crispy sev (fried chickpea noodles)."
+}]
